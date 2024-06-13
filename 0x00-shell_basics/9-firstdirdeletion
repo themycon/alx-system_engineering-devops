@@ -1,1 +1,2 @@
--e#!/bin/bash \n rm -r /temp/my_first_directory
+#!/bin/bash
+rm -r /temp/my_first_directory
